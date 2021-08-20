@@ -41,4 +41,3 @@ while run:
     print("")
     print("Score: Computer-" + str(c) + " Player-" + str(p))
     print("")
-    print("Testing through webpage")
