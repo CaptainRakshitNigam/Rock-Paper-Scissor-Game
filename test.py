@@ -40,4 +40,4 @@ while run:
     print("Computer: " + computer_choice)
     print("")
     print("Score: Computer-" + str(c) + " Player-" + str(p))
-    print("")
+    print("chal be chutiye")
